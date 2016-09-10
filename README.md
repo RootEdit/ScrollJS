@@ -1,10 +1,9 @@
 # ScrollJS
 A Javascript library for scroll and parallax effect using  TweenJS.
 
-This plugin for TweenJS is replacing the use of the scroll bar value in place of time.
+This plugin use the scroll value in place of time to control the tween animation.
 
-##usage
-### initialization
+## installation
 
 * First include tweenjs script.
 * After include scrollJS.
@@ -14,6 +13,7 @@ This plugin for TweenJS is replacing the use of the scroll bar value in place of
 	<script src="/js/tweenjs-0.6.2.min.js" type="text/javascript" charset="utf-8"></script>
 	<script src="/js/ScrollJS.js" type="text/javascript" charset="utf-8"></script>
 ```
+##usage
 
 ### Scroll animating from right
 ```javascript
